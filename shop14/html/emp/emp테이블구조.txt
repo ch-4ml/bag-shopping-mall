@@ -1,0 +1,18 @@
+
+필드이름 뒤에 자기 번호 붙일 것
+
+------------------------------------
+1. 테이블 이름 : emp
+------------------------------------
+ no    int        not null  auto_increment (기본키)
+ name  varchar 20
+ tel   varchar 11
+
+------------------------------------
+2. 테이블 이름 : emps
+------------------------------------
+ no        int    not null  auto_increment (기본키)
+ emp_no	   int
+ name	   varchar 20
+ birthday  date
+

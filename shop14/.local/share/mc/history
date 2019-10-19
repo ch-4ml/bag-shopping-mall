@@ -1,0 +1,16 @@
+[input-def]
+0=*
+
+[input2]
+0=/home/shop14/
+
+[cmdline]
+0=8
+1=
+
+[Dir Hist New Right Panel]
+0=/home/shop14/html
+1=/home/shop14
+
+[Dir Hist New Left Panel]
+0=/home/shop14/html
